@@ -1,0 +1,9 @@
+/* top.css */
+/* トップページ (/index.html) に適用 */
+
+@charset "utf-8";
+
+h2 {
+  font-family: serif;
+  text-align: center;
+}

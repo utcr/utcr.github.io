@@ -1,0 +1,38 @@
+header {
+  margin: 1rem 0;
+  height: fit-content;
+  /* padding: 0.5rem; */
+  /* background-color: blue; */
+}
+
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: end;
+  height: 100%;
+}
+
+.logo-button img {
+ height: 2.5rem;
+ object-fit: contain;
+
+}
+
+/* sp向け navbtn */
+/* 未実装 */
+
+/* nav */
+/* 未実装 */
+
+.join-button {
+  /* height: 1.5rem; */
+  /* background-color: rgb(90, 164, 255); */
+  background-color: rgb(31, 106, 197);
+
+  padding: 0.2rem 0.5rem;
+  border-radius: 0.5rem;
+
+  font-size: 1.2rem;
+  font-weight: bold;
+}
